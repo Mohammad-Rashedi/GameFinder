@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#002388</color>
+    <color name="colorPrimaryDark">#000838</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="textColorPrimary">#CBD1FF</color>
+    <color name="textColorSecondary">#95A1FF</color>
+    <color name="navigationBarColor">#000838</color>
+    <color name="windowBackground">#ECECEC</color>
+    <color name="colorBackground">#D81B60</color>
+    <color name="colorBackgroundDescriptionTitle">#FC005D</color>
+    <color name="colorBackgroundDescription">#BD0146</color>
+    <color name="colorBackgroundDescriptionGenre">#680026</color>
+    <color name="colorBackgroundDescriptionBackground">#3C0015</color>
+    <color name="colorDuskYellow">#FFE74B</color>
+    <color name="colorLightGrey">#D5D5D5</color>
+
+    <color name="colorBackgroundDescriptionPlayer">#2E0012</color>
+
+    <color name="colorBackgroundDialog">#FFD1FF</color>
+</resources>
